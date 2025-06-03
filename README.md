@@ -1,3 +1,5 @@
+Here, I have prepared test case report by testing Gmail Settings Tabs and identified defects with success ratio by performing functional testing. 
+
 Project Summary:
 Executed a structured QA project to verify the functionality of various tabs under the Gmail Settings menu. The objective was to ensure each settings tab—General, Labels, Inbox, Accounts and Import, Filters and Blocked Addresses, and Forwarding and POP/IMAP—functioned correctly across different test cycles in Chrome browser within a controlled test environment.
 
